@@ -5,6 +5,18 @@
     "address": "Адрес",
     "payment_type": "VISA_CARD",
     "delivery_time": "2022-01-20",
-    "cart": 1
+
+    "cart": {
+      "cart_items": [
+        {
+          "id": 1,
+          "count": 20
+        },
+        {
+          "id": 2,
+          "count": 10
+        }
+      ]
+    }
   }
 ]

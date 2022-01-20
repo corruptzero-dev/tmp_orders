@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "вода",
+    "description": "вода",
     "volume": 0.5,
     "price": 25,
     "isInStock": true
@@ -9,6 +10,7 @@
   {
     "id": 1,
     "title": "вода",
+    "description": "вода",
     "volume": 1,
     "price": 40,
     "isInStock": true
