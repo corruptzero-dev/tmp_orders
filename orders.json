@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Имя",
+    "phone": "88005553535",
+    "address": "Адрес",
+    "payment_type": "VISA_CARD",
+    "delivery_time": "2022-01-20",
+    "cart": 1
+  }
+]
